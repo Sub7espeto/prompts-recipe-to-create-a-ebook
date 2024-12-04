@@ -32,9 +32,6 @@ Midjourney：
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney
 
-## 📚 Materiais
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 
